@@ -1,0 +1,22 @@
+inicializar un repo
+
+git init 
+
+git add .
+
+
+git commit -m "mi mensaje"
+tener un repo listo (comandos 1)
+git remote add origin pagina ssh
+git brach -M 
+git push -u origin main
+
+crear llave ssh 
+ssh-keygen
+
+
+
+hacer commits y subirlos 
+git add .
+git commit -m "mensaje"
+git push origin main 
