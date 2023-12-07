@@ -1,0 +1,50 @@
+body { 
+    background-color: goldenrod;
+    color: forestgreen;
+    
+}
+.important-text {
+    background-color: aliceblue ;
+    color: #00ffff;
+
+    width: fit-content;
+}
+
+#tittle {
+    border: solid red 3px;
+    font-size: 32px;
+
+    width: fit-content 
+
+}
+
+
+#id .class p {
+
+  border: solid;
+
+}
+
+section button{
+    background-color: hotpink;
+}
+ 
+.light-section button {
+
+background-color: black;
+
+}
+
+a {
+    border: dashed rgb(32, 130, 66)3px;
+}
+
+img {
+
+    border-radius: 1000px ;
+}
+
+
+
+
+
